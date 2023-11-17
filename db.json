@@ -1,25 +1,42 @@
 {
   "dates": [
-      {
-          "title": "zoo date",
-          "time": "10-12-23",
-          "place": "Paris zoo",
-          "description": "Go to zoo, feed animals",
-          "id": 1
-      },
-      {
-          "title": "picnic date",
-          "time": "16-12-23",
-          "place": "Paris park",
-          "description": "Go to park, have picnic",
-          "id": 2
-      },
-      {
-          "title": "cinema date",
-          "time": "04-12-23",
-          "place": "Paris cinema",
-          "description": "Go to cinema, watch movie, eat popcorn",
-          "id": 3
-      }
+    {
+      "title": "zoo date",
+      "time": "10-12-23",
+      "place": "Paris zoo",
+      "description": "Go to zoo, feed animals",
+      "id": 1
+    },
+    {
+      "title": "picnic date",
+      "time": "16-12-23",
+      "place": "Paris park",
+      "description": "Go to park, have picnic",
+      "id": 2
+    },
+    {
+      "title": "cinema date",
+      "time": "04-12-23",
+      "place": "Paris cinema",
+      "description": "Go to cinema, watch movie, eat popcorn",
+      "id": 3
+    }
+  ],
+  "activities": [
+    {
+        "dateId": 2,
+        "title": "play volleyball",
+        "id": 1
+    },
+    {
+        "dateId": 3,
+        "title": "choose movie",
+        "id": 2
+    },
+    {
+        "dateId": 3,
+        "title": "buy tickets",
+        "id": 3
+    }
   ]
 }
