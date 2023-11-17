@@ -2,21 +2,21 @@
   "dates": [
       {
           "title": "zoo date",
-          "time": "12-10-2023",
+          "time": "2023-12-10",
           "place": "Paris zoo",
           "description": "Go to zoo, feed animals",
           "id": 1
       },
       {
           "title": "picnic date",
-          "time": "12-16-2023",
+          "time": "2023-12-16",
           "place": "Paris park",
           "description": "Go to park, have picnic",
           "id": 2
       },
       {
           "title": "cinema date",
-          "time": "12-04-2023",
+          "time": "2023-12-04",
           "place": "Paris cinema",
           "description": "Go to cinema, watch movie, eat popcorn",
           "id": 3
