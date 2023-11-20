@@ -5,6 +5,7 @@
       "time": "2023-12-10",
       "place": "Paris zoo",
       "description": "Go to zoo, feed animals",
+      "likes" : 1,
       "id": 1
     },
     {
@@ -12,6 +13,7 @@
       "time": "2023-12-16",
       "place": "Paris park",
       "description": "Go to park, have picnic",
+      "likes" : 3,
       "id": 2
     },
     {
@@ -19,6 +21,7 @@
       "time": "2023-12-04",
       "place": "Paris cinema",
       "description": "Go to cinema, watch movie, eat popcorn",
+      "likes" : 2,
       "id": 3
     }
   ],
