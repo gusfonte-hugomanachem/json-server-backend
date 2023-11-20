@@ -38,5 +38,12 @@
         "title": "buy tickets",
         "id": 3
     }
+  ],
+  "checklists": [
+    {
+        "activityId" : 1,
+        "checklist" : [["buy the ball",true],["know the rules",false]],
+        "id" : 1
+    }
   ]
 }
