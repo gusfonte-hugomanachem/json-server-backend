@@ -6,6 +6,7 @@
       "place": "Paris zoo",
       "description": "Go to zoo, feed animals",
       "likes" : 1,
+      "cost" : 30,
       "id": 1
     },
     {
@@ -14,6 +15,7 @@
       "place": "Paris park",
       "description": "Go to park, have picnic",
       "likes" : 3,
+      "cost" : 20,
       "id": 2
     },
     {
@@ -22,6 +24,7 @@
       "place": "Paris cinema",
       "description": "Go to cinema, watch movie, eat popcorn",
       "likes" : 2,
+      "cost" : 25,
       "id": 3
     }
   ],
@@ -29,19 +32,16 @@
     {
         "dateId": 2,
         "title": "play volleyball",
-        "cost" : 0,
         "id": 1
     },
     {
         "dateId": 3,
         "title": "choose movie",
-        "cost" : 0,
         "id": 2
     },
     {
         "dateId": 3,
         "title": "buy tickets",
-        "cost" : 15,
         "id": 3
     }
   ],
