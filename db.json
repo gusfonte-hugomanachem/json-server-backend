@@ -42,7 +42,7 @@
   "checklists": [
     {
         "activityId" : 1,
-        "checklist" : [["buy the ball",true],["know the rules",false]],
+        "checklist" : [["buy the ball",true],["know the rules",false],["practice before",false]],
         "id" : 1
     }
   ]
