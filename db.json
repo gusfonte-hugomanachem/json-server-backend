@@ -29,16 +29,19 @@
     {
         "dateId": 2,
         "title": "play volleyball",
+        "cost" : 0,
         "id": 1
     },
     {
         "dateId": 3,
         "title": "choose movie",
+        "cost" : 0,
         "id": 2
     },
     {
         "dateId": 3,
         "title": "buy tickets",
+        "cost" : 15,
         "id": 3
     }
   ],
