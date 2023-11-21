@@ -5,8 +5,8 @@
       "time": "2023-12-10",
       "place": "Paris zoo",
       "description": "Go to zoo, feed animals",
-      "likes" : 1,
-      "cost" : 30,
+      "likes": 1,
+      "cost": 30,
       "id": 1
     },
     {
@@ -14,8 +14,8 @@
       "time": "2023-12-16",
       "place": "Paris park",
       "description": "Go to park, have picnic",
-      "likes" : 3,
-      "cost" : 20,
+      "likes": 3,
+      "cost": 20,
       "id": 2
     },
     {
@@ -23,33 +23,65 @@
       "time": "2023-12-04",
       "place": "Paris cinema",
       "description": "Go to cinema, watch movie, eat popcorn",
-      "likes" : 2,
-      "cost" : 25,
+      "likes": 2,
+      "cost": 25,
       "id": 3
+    },
+    {
+      "title": "restaurant date",
+      "time": "2023-12-08",
+      "place": "Ratatouille restaurant",
+      "description": "Have fancy dinner",
+      "likes": 20,
+      "cost": 75,
+      "id": 4
+    },
+    {
+      "title": "museum date",
+      "time": "2023-12-24",
+      "place": "Louvres, Paris",
+      "description": "Go to museum, criticize art",
+      "likes" : 16,
+      "cost" : 50,
+      "id": 5
+    },
+    {
+      "title": "coffee date",
+      "time": "2023-12-19",
+      "place": "Paris Starbucks",
+      "description": "Get coffee with friends, catch-up",
+      "likes" : 21,
+      "cost" : 13,
+      "id": 6
     }
   ],
   "activities": [
     {
-        "dateId": 2,
-        "title": "play volleyball",
-        "id": 1
+      "dateId": 2,
+      "title": "play volleyball",
+      "id": 1
     },
     {
-        "dateId": 3,
-        "title": "choose movie",
-        "id": 2
+      "dateId": 3,
+      "title": "choose movie",
+      "id": 2
     },
     {
-        "dateId": 3,
-        "title": "buy tickets",
-        "id": 3
+      "dateId": 3,
+      "title": "buy tickets",
+      "id": 3
     }
   ],
   "checklists": [
     {
-        "activityId" : 1,
-        "checklist" : [["buy the ball",true],["find a good spot",true],["know the rules",false],["practice before",false]],
-        "id" : 1
+      "activityId": 1,
+      "checklist": [
+        ["buy the ball", true],
+        ["find a good spot", true],
+        ["know the rules", false],
+        ["practice before", false]
+      ],
+      "id": 1
     }
   ]
 }
