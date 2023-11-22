@@ -42,7 +42,11 @@
     {
       "title": "restaurant date",
       "time": "2023-12-08",
-      "place": "Ratatouille restaurant",
+      "location": {
+        "displayedPlace" :"Ratatouille restaurant",
+        "lat" : null,
+        "lon" : null
+      },
       "description": "Have fancy dinner",
       "likes": 20,
       "cost": 75,
@@ -51,7 +55,11 @@
     {
       "title": "museum date",
       "time": "2023-12-24",
-      "place": "Louvres, Paris",
+      "location": {
+        "displayedPlace" :"Louvres, Paris",
+        "lat" : null,
+        "lon" : null
+      },
       "description": "Go to museum, criticize art",
       "likes" : 16,
       "cost" : 50,
@@ -60,7 +68,11 @@
     {
       "title": "coffee date",
       "time": "2023-12-19",
-      "place": "Paris Starbucks",
+      "location": {
+        "displayedPlace" :"Paris Starbucks",
+        "lat" : null,
+        "lon" : null
+      },
       "description": "Get coffee with friends, catch-up",
       "likes" : 21,
       "cost" : 13,
