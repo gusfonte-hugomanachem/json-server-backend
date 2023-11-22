@@ -3,7 +3,11 @@
     {
       "title": "zoo date",
       "time": "2023-12-10",
-      "place": "Paris zoo",
+      "location": {
+        "displayedPlace" :"Paris zoo",
+        "lat" : null,
+        "lon" : null
+      },
       "description": "Go to zoo, feed animals",
       "likes" : 1,
       "cost" : 30,
@@ -12,7 +16,11 @@
     {
       "title": "picnic date",
       "time": "2023-12-16",
-      "place": "Paris park",
+      "location": {
+        "displayedPlace" :"Paris park",
+        "lat" : null,
+        "lon" : null
+      },
       "description": "Go to park, have picnic",
       "likes" : 3,
       "cost" : 20,
@@ -21,7 +29,11 @@
     {
       "title": "cinema date",
       "time": "2023-12-04",
-      "place": "Paris cinema",
+      "location": {
+        "displayedPlace" :"Paris cinema",
+        "lat" : null,
+        "lon" : null
+      },
       "description": "Go to cinema, watch movie, eat popcorn",
       "likes" : 2,
       "cost" : 25,
